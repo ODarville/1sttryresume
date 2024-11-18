@@ -1,0 +1,59 @@
+
+/* @media (max-width ){  
+   .body{
+    background-color: aqua;
+   }
+}
+@media (max-width ){
+    .body{
+        background-color: gray;
+    }
+    
+}
+@media (max-width ){
+    .body{
+        background-color: darkkhaki;
+    }
+    
+}*/
+/* General */
+.he{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    border: solid red;
+    text-align: center;
+    height: 500px;
+    background-color: rgb(31, 25, 54);
+    color: #b9b6b6;
+}
+.social{
+    border: solid orange;
+}
+.summary{
+    border: solid yellow;
+}
+.exp{
+    border: solid green;
+}
+.skills{
+    border: solid blue;
+    width: 20%;
+    float: left;
+}
+.social{
+    width: 20%;
+    float: left;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 1150px;
+    width: 800px;
+    background-color: white;
+    margin: 20px auto;
+}
+.photo{
+    border-radius: 50%;
+}
